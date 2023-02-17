@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently interested in natural language processing and social computing.
+- 📫 How to reach me: jjjunyeong9986@kaist.ac.kr / jp60@illinois.edu
