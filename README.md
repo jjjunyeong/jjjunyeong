@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently interested in natural language processing and social computing.
+- 🌱 I’m currently interested in graph representation and natural language processing.
 - 📫 How to reach me: jjjunyeong9986@kaist.ac.kr / jp60@illinois.edu
